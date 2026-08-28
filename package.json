@@ -1,5 +1,17 @@
 {
   "name": "NEXUS--ENGINE",
   "version": "1.0.0",
-  "description": "Plateforme de Génération de workflow"
+  "description": "Plateforme de Génération de workflow",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js",
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
 }
+

@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS Engine - Workflow & Lead Capture Automation",
+  "description": "Plateforme de génération de workflow et automatisation de capture de leads",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
